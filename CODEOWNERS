@@ -126,6 +126,8 @@
 /drivers/sensor/lps*/                     @avisconti
 /drivers/sensor/lsm*/                     @avisconti
 /drivers/serial/uart_altera_jtag_hal.c    @ramakrishnapallala
+/drivers/serial/Kconfig.litex             @mateusz-holenko @kgugala @pgielda @nategraff-sifive
+/drivers/serial/uart_liteuart.c           @mateusz-holenko @kgugala @pgielda @nategraff-sifive
 /drivers/net/slip.c                       @jukkar @tbursztyka
 /drivers/spi/                             @tbursztyka
 /drivers/spi/spi_ll_stm32.*               @superna9999
@@ -143,6 +145,7 @@
 /dts/bindings/can/                        @alexanderwachter
 /dts/bindings/*/nordic*                   @anangl
 /dts/bindings/*/nxp*                      @MaureenHelm
+/dts/bindings/serial/litex,uart0.yaml     @mateusz-holenko @kgugala @pgielda @nategraff-sifive
 /ext/fs/                                  @nashif @ramakrishnapallala
 /ext/hal/cmsis/                           @MaureenHelm @galak
 /ext/hal/libmetal/                        @galak
