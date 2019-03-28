@@ -146,6 +146,7 @@
 /dts/bindings/can/                        @alexanderwachter
 /dts/bindings/*/nordic*                   @anangl
 /dts/bindings/*/nxp*                      @MaureenHelm
+/dts/bindings/*/vexriscv,intc0.yaml       @mateusz-holenko @kgugala @pgielda @nategraff-sifive
 /dts/bindings/serial/litex,uart0.yaml     @mateusz-holenko @kgugala @pgielda @nategraff-sifive
 /dts/bindings/timer/litex,timer0.yaml     @mateusz-holenko @kgugala @pgielda @nategraff-sifive
 /ext/fs/                                  @nashif @ramakrishnapallala
