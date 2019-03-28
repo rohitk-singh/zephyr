@@ -149,6 +149,7 @@
 /dts/bindings/*/vexriscv,intc0.yaml       @mateusz-holenko @kgugala @pgielda @nategraff-sifive
 /dts/bindings/serial/litex,uart0.yaml     @mateusz-holenko @kgugala @pgielda @nategraff-sifive
 /dts/bindings/timer/litex,timer0.yaml     @mateusz-holenko @kgugala @pgielda @nategraff-sifive
+/dts/riscv32/                             @mateusz-holenko @kgugala @pgielda @nategraff-sifive
 /ext/fs/                                  @nashif @ramakrishnapallala
 /ext/hal/cmsis/                           @MaureenHelm @galak
 /ext/hal/libmetal/                        @galak
