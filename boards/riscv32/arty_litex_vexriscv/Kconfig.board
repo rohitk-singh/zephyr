@@ -1,0 +1,3 @@
+config BOARD_ARTY_LITEX_VEXRISCV
+	bool "Digilent Arty dev board with LiteX/VexRiscV CPU"
+	depends on SOC_RISCV32_LITEX_VEXRISCV
